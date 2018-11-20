@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/index/address/address",
+    "pages/search/search",
+    "pages/select_address/select_address",
+    "pages/pay_attention/pay_attention",
+    "pages/confirm_order/confirm_order",
+    "pages/recieve_address/recieve_address",
+    "pages/recieve_two/recieve_two",
+    "pages/order_beizhu/order_beizhu",
+    "pages/payPage/payPage",
+    "pages/reset_code/reset_code",
+    "pages/order_detail/order_detail",
+    "pages/back_money/back_money",
+    "pages/back_detail/back_detail",
+    "pages/comment/comment",
+    "pages/tousu/tousu",
+    "pages/repair_address/repair_address",
+    "pages/book_address/book_address",
+    "pages/key_address/key_address",
+    "pages/ji_address/ji_address",
+    "pages/ji_two/ji_two",
+    "pages/select_thing/select_thing",
+    "personal/index/index",
+    "personal/order_news/order_news",
+    "personal/myinfo/myinfo",
+    "personal/mywallet/mywallet",
+    "personal/cash/cash",
+    "personal/cash_result/cash_result",
+    "personal/yue_dedatil/yue_dedatil",
+    "personal/set_code/set_code",
+    "personal/an_code/an_code",
+    "personal/nodis/nodis",
+    "personal/advice/advice",
+    "personal/abus/abus"
+  ],
+  "window":{
+    "backgroundTextStyle":"#FFFFFF",
+    "navigationBarBackgroundColor": "#4C9CE0",
+    "navigationBarTitleText": "包裹王",
+    "navigationBarTextStyle":"#FFFFFF"
+    
+  }
+}
